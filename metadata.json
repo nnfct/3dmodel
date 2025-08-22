@@ -1,0 +1,5 @@
+{
+  "name": "Text to 3D Model Generator",
+  "description": "An application that generates a 3D model scene using A-Frame based on a user's text description, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
